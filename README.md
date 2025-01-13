@@ -9,5 +9,5 @@ Dump of my cool and cute wallpapers that I see it daily. I'm not the creator and
 
 ## Previews
 
-###### girls-on-cpu.jpg
+##### girls-on-cpu.jpg
 ![girls-on-cpu.jpg](https://raw.githubusercontent.com/GMkonan/wallpapers/main/girls-on-cpu.jpg)
