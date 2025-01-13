@@ -1,0 +1,3 @@
+# Removing stupid mac things, ds store and https://apple.stackexchange.com/questions/14980/why-are-dot-underscore-files-created-and-how-can-i-avoid-them
+.DS_Store
+._*
