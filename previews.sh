@@ -7,6 +7,7 @@ find . -maxdepth 1 -type f \
     ! -name ".DS_Store" \
     ! -name "._*" \
     ! -path "./.git/*" \
+    ! -path "./small/*" \
     ! -name "$(basename "$0")" | while read -r file; do
 
     filename=$(basename "$file")
