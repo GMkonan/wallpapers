@@ -4,15 +4,18 @@ Dump of my cool and cute wallpapers that I see it daily. I'm not the creator and
 - https://moewalls.com/
 - https://www.wallpaperflare.com/
 - https://github.com/orangci/walls-catppuccin-mocha
+- https://wall.alphacoders.com/
+- https://wallhaven.cc/
 
-
+### Todo
+- `previews.sh` script could be better, overwrite readme
 
 ## Previews
 
 #### rio-money.png
 ![rio-money.png](https://raw.githubusercontent.com/GMkonan/wallpapers/main/rio-money.png)
 
-#### Zelda_Ghib.heic (Mac Only)
+#### Zelda_Ghib.heic (Mac only)
 ![Zelda_Ghib.heic](https://raw.githubusercontent.com/GMkonan/wallpapers/main/Zelda_Ghib.heic)
 
 #### bocchi-band-dinos.jpg
@@ -51,23 +54,23 @@ Dump of my cool and cute wallpapers that I see it daily. I'm not the creator and
 #### samurai.jpg
 ![samurai.jpg](https://raw.githubusercontent.com/GMkonan/wallpapers/main/samurai.jpg)
 
-#### switch.jpg
-![switch.jpg](https://raw.githubusercontent.com/GMkonan/wallpapers/main/switch.jpg)
-
 #### bsod.png
 ![bsod.png](https://raw.githubusercontent.com/GMkonan/wallpapers/main/bsod.png)
+
+#### switch.jpg
+![switch.jpg](https://raw.githubusercontent.com/GMkonan/wallpapers/main/switch.jpg)
 
 #### astronaut.png
 ![astronaut.png](https://raw.githubusercontent.com/GMkonan/wallpapers/main/astronaut.png)
 
-#### coffee-shop.png
-![coffee-shop.png](https://raw.githubusercontent.com/GMkonan/wallpapers/main/coffee-shop.png)
+#### city.png
+![city.png](https://raw.githubusercontent.com/GMkonan/wallpapers/main/city.png)
 
 #### lantern-light-room.png
 ![lantern-light-room.png](https://raw.githubusercontent.com/GMkonan/wallpapers/main/lantern-light-room.png)
 
-#### fox.png
-![fox.png](https://raw.githubusercontent.com/GMkonan/wallpapers/main/fox.png)
+#### temple-sky.jpg
+![temple-sky.jpg](https://raw.githubusercontent.com/GMkonan/wallpapers/main/temple-sky.jpg)
 
 #### nix-tux.png
 ![nix-tux.png](https://raw.githubusercontent.com/GMkonan/wallpapers/main/nix-tux.png)
@@ -80,4 +83,64 @@ Dump of my cool and cute wallpapers that I see it daily. I'm not the creator and
 
 #### basement.jpg
 ![basement.jpg](https://raw.githubusercontent.com/GMkonan/wallpapers/main/basement.jpg)
+
+#### lighthouse.jpg
+![lighthouse.jpg](https://raw.githubusercontent.com/GMkonan/wallpapers/main/lighthouse.jpg)
+
+#### vibrant-gate.png
+![vibrant-gate.png](https://raw.githubusercontent.com/GMkonan/wallpapers/main/vibrant-gate.png)
+
+#### sword-samurai.jpg
+![sword-samurai.jpg](https://raw.githubusercontent.com/GMkonan/wallpapers/main/sword-samurai.jpg)
+
+#### no-wake-zone.jpg
+![no-wake-zone.jpg](https://raw.githubusercontent.com/GMkonan/wallpapers/main/no-wake-zone.jpg)
+
+#### satellite.png
+![satellite.png](https://raw.githubusercontent.com/GMkonan/wallpapers/main/satellite.png)
+
+#### space-piano.png
+![space-piano.png](https://raw.githubusercontent.com/GMkonan/wallpapers/main/space-piano.png)
+
+#### van-chilling-cyberpunk.png
+![van-chilling-cyberpunk.png](https://raw.githubusercontent.com/GMkonan/wallpapers/main/van-chilling-cyberpunk.png)
+
+#### toast.png
+![toast.png](https://raw.githubusercontent.com/GMkonan/wallpapers/main/toast.png)
+
+#### frieren-looking-back.jpeg
+![frieren-looking-back.jpeg](https://raw.githubusercontent.com/GMkonan/wallpapers/main/frieren-looking-back.jpeg)
+
+#### neighborhood.png
+![neighborhood.png](https://raw.githubusercontent.com/GMkonan/wallpapers/main/neighborhood.png)
+
+#### moonlit.png
+![moonlit.png](https://raw.githubusercontent.com/GMkonan/wallpapers/main/moonlit.png)
+
+#### night-city-guy.png
+![night-city-guy.png](https://raw.githubusercontent.com/GMkonan/wallpapers/main/night-city-guy.png)
+
+#### night-stars-couple-cycling.jpg
+![night-stars-couple-cycling.jpg](https://raw.githubusercontent.com/GMkonan/wallpapers/main/night-stars-couple-cycling.jpg)
+
+#### bocchi-the-last-of-us.jpg
+![bocchi-the-last-of-us.jpg](https://raw.githubusercontent.com/GMkonan/wallpapers/main/bocchi-the-last-of-us.jpg)
+
+#### ryo-washing-machines.jpg
+![ryo-washing-machines.jpg](https://raw.githubusercontent.com/GMkonan/wallpapers/main/ryo-washing-machines.jpg)
+
+#### kita-street.jpeg
+![kita-street.jpeg](https://raw.githubusercontent.com/GMkonan/wallpapers/main/kita-street.jpeg)
+
+#### ryo-marshall.png
+![ryo-marshall.png](https://raw.githubusercontent.com/GMkonan/wallpapers/main/ryo-marshall.png)
+
+#### bocchi-amazon.png
+![bocchi-amazon.png](https://raw.githubusercontent.com/GMkonan/wallpapers/main/bocchi-amazon.png)
+
+#### night-girl-city-sky.jpeg
+![night-girl-city-sky.jpeg](https://raw.githubusercontent.com/GMkonan/wallpapers/main/night-girl-city-sky.jpeg)
+
+#### bocchi-lookup.png
+![bocchi-lookup.png](https://raw.githubusercontent.com/GMkonan/wallpapers/main/bocchi-lookup.png)
 
