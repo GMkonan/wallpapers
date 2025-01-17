@@ -146,3 +146,6 @@ Dump of my cool and cute wallpapers that I see it daily. I'm not the creator and
 
 #### girl-on-balcony.png
 ![girl-on-balcony.png](https://raw.githubusercontent.com/GMkonan/wallpapers/main/girl-on-balcony.png)
+
+#### mountains-lake.png
+![mountains-lake.png](https://raw.githubusercontent.com/GMkonan/wallpapers/main/mountains-lake.png)
