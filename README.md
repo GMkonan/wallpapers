@@ -8,7 +8,11 @@ Dump of my cool and cute wallpapers that I see it daily. I'm not the creator and
 - https://wallhaven.cc/
 
 ### Todo
-- `previews.sh` script could be better, overwrite readme
+- `previews.sh` script could be better
+    - overwrite entire readme without manual delete
+    - change the order, make images in active folder appear first since they are cooler!
+    - include small folder images in preview, with (maybe) a special name
+    - include resolution of each image?
 
 ## Previews
 
