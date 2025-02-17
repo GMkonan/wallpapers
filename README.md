@@ -142,6 +142,9 @@ Dump of my cool and cute wallpapers that I see it daily. I'm not the creator and
 #### vibrant-gate.png
 ![vibrant-gate.png](https://raw.githubusercontent.com/GMkonan/wallpapers/main/active/vibrant-gate.png)
 
+#### anime-girl-cold-days-ik.jpg
+![anime-girl-cold-days-ik.jpg](https://raw.githubusercontent.com/GMkonan/wallpapers/main/active/anime-girl-cold-days-ik.jpg)
+
 #### Zelda_Ghib.heic
 ![Zelda_Ghib.heic](https://raw.githubusercontent.com/GMkonan/wallpapers/main/active/Zelda_Ghib.heic)
 
